@@ -1,0 +1,65 @@
+.commandCard {
+    display: flex;
+    flex-direction: row;
+    background-color: #191919;
+    border-radius: 15px;
+    padding: 4px 16px;
+    transition: 0.1s all ease;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 16px;
+}
+
+.commandDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.commandControls{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+}
+
+.commandCard:hover {
+    background-color: #111111;
+    color: white;
+    text-decoration: none;
+}
+
+.commandTitle {
+    color: whitesmoke;
+}
+
+.commandDesc {
+    color: #999999;
+}
+
+.commandIconAlign {
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 12px;
+}
+
+.botCard {
+    display: flex;
+    flex-direction: column;
+    background-color: #191919;
+    border-radius: 15px;
+    padding: 2px 16px;
+    transition: 0.1s all ease;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 16px;
+}
+
+.botCard:hover {
+    background-color: #111111;
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    margin-bottom: 22px;
+}

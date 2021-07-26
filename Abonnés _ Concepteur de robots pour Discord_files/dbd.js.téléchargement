@@ -1,0 +1,3 @@
+console.log("%cDo not paste anything here!","color:red;font-size: 20px;");
+console.log("%cIf someone is telling you otherwise, you are probably getting scammed","color:red;font-size: 20px;");
+console.log("%cPasting anything here can give access to your account to attackers!","color:red;font-size: 50px;");
